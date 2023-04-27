@@ -1,6 +1,7 @@
-<h1 align="center">
-  Hi there, I'm Andrew 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+<h2>👽 Frontend Developer and Computer Science Student</h2>
 
-<h3 align="center">Frontend Developer and Computer Science Student</h3>
+🔭 I’m currently working on E-Voting dApp (my college final project) and Daria RESTful API.
+
+🌱 I’m currently learning Express.js and preparing for job interviews.
+
+📫 Connect with me on telegram @khrapunoff
