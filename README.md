@@ -1,7 +1,7 @@
 <h2>👽 Fullstack Developer and Computer Science Student</h2>
 
-🔭 I’m currently working on E-Voting dApp (my college final project)
+🔭 I’m currently working on pet projects
 
-🌱 I’m currently learning Express.js and preparing for job interviews.
+🌱 I’m currently preparing for job interviews.
 
 📫 Connect with me on telegram @khrapunoff
